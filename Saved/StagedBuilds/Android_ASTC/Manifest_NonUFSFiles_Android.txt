@@ -1,0 +1,3 @@
+LearnCPP/Plugins/PICOXR/Source/ThirdParty/PXRPlugin/PXRPlugin/Lib/armeabi-v7a/libpxr_api.so	2024-05-24T08:40:26.929Z
+LearnCPP/Plugins/PICOXR/Source/ThirdParty/PXRPlugin/PXRPlugin/Lib/arm64-v8a/libpxr_api.so	2024-05-24T08:40:26.800Z
+UE4CommandLine.txt	A2F4DE9346E7FC3B6026B42FFE862270
